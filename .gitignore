@@ -19,4 +19,6 @@ ipython_config.py
 *.key
 # bat 
 *.bat
+# video
+*.mp4
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
